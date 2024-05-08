@@ -1,0 +1,14 @@
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.exe
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.deps.json
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.runtimeconfig.json
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.dll
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.pdb
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.AssemblyInfo.cs
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.dll
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\obj\Debug\net8.0\refint\SingletonDesignPattern.dll
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.pdb
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.genruntimeconfig.cache
+C:\Users\labuser\Desktop\Creational_Design_Patterns\SingletonDesignPattern\obj\Debug\net8.0\ref\SingletonDesignPattern.dll
